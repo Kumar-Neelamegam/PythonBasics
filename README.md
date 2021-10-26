@@ -10,12 +10,12 @@ https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-b
 6. Exercise - Km to Miles Converter
 
 **Section 2 - Datatypes**
-7. Data Types: Strings 
-8. Exercise - Strings 
-9. Data Types: Numbers 
-10. Exercise - Numbers 
-11. Data Types: Lists and Tuples 
-12. Exercise - Lists and Tuples 
+7. Data Types: Strings
+8. Exercise - Strings
+9. Data Types: Numbers
+10. Exercise - Numbers
+11. Data Types: Lists and Tuples
+12. Exercise - Lists and Tuples
 13. Data Types: Dictionaries 
 14. Exercise - Dictionaries 
 15. Data Types: Booleans 
